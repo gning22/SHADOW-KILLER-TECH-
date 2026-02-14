@@ -1,0 +1,16 @@
+{
+  "name": "telegram-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Un bot qui connecte Telegram à WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-telegram-bot-api": "^0.55.0",
+    "whatsapp-web.js": "^1.18.0"
+  },
+  "author": "shadow killer",
+  "license": "MIT"
+}
